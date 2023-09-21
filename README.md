@@ -8,7 +8,7 @@ Make sure you have Expo CLI installed. If not, you can install it globally using
 
 Instructions:
 
-1. Clone the Project: git clone <repository-url>
+1. Clone the Project: git clone https://github.com/caleb-ali/mobile-taskManager.git
 2. Install Dependencies:  cd <project-directory>
    Install project dependencies by running: npm install
 3. Start the Development Server: npm start
